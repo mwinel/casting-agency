@@ -1,6 +1,6 @@
-# todo-app
+# casting-agency
 
-Just a simple todo app.
+A udacity capstone project.
 
 ## Technologies
 
